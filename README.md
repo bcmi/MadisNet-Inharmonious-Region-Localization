@@ -88,5 +88,6 @@ If you find this work or code is helpful in your research, please cite:
 ````
 ## Reference
 [1] Inharmonious Region Localization by Magnifying Domain Discrepancy. Jing Liang, Li Niu, Penghao Wu, Fengjun Guo, and Teng Long. Accepted by AAAI 2022. [download]()
+
 [2] Inharmonious Region Localization. Jing Liang, Li Niu, Liqing Zhang. Accepted by ICME 2021. [download](https://arxiv.org/pdf/2104.09453.pdf)
 
