@@ -74,7 +74,9 @@ We also show qualitative comparision with state-of-art methods of other related 
 <img src="figures/mask_comparison.jpg" width = "100%" height = "100%" alt="Some examples of inharmonious region prediction" align=center />
 </div>
 
+## Test Set with Multiple Foregrounds
 
+To evaluate the effectiveness of inharmonious region localization for multiple inharmonious regions, we also prepare a test set with multiple foregrounds. Based on HCOCO test set, we composite 19,482 synthetic images with multiple foregrounds, in which the number of foregrounds ranges from 2 to 9. The test set can be downloaded from [Baidu Cloud](https://pan.baidu.com/s/1lxFte2NqQSjrkt-s6OSbpg?pwd=uvan). 
 
 ## Citation
 If you find this work or code is helpful in your research, please cite:
