@@ -5,7 +5,7 @@ This is the official repo for AAAI 2022 paper(**Oral**):
 > <br><sup>1</sup>MoE Key Lab of Artificial Intelligence, Shanghai Jiao Tong University
 > <br><sup>2</sup>INTSIG<br>
 > 
-> [Paper]() | [Bibtex](#citation) | [Models](#pretrained)
+> [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/20048) | [Bibtex](#citation) | [Models](#pretrained)
 
 
 
