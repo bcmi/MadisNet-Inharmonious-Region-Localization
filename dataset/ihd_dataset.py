@@ -55,7 +55,7 @@ class IhdDataset(BaseDataset):
         elif opt.is_train==False:
             print('loading test file')
             self.keep_background_prob = -1
-            if opt.is_val = True:
+            if opt.is_val == True:
                 self.trainfile = os.path.join(opt.dataset_root,'le50_val.txt')
             else:
                 self.trainfile = os.path.join(opt.dataset_root,'le50_test.txt')
