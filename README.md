@@ -7,7 +7,7 @@ This is the official repo for AAAI 2022 paper(**Oral**):
 > 
 > [Paper](https://arxiv.org/pdf/2209.15368.pdf) | [Bibtex](#citation) | [Models](#pretrained)
 
-
+**Our MadisNet has been integrated into our image composition toolbox libcom https://github.com/bcmi/libcom. Welcome to visit and try ＼(^▽^)／** 
 
 
 ### Inharmonious Region
