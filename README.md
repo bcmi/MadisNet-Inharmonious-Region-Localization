@@ -53,8 +53,8 @@ python3  train.py --dataset_root <PATH_TO_DATASET> --checkpoints_dir <PATH_TO_SA
 ### Pretrained Models
 
 
-- MadisNet-DIRL ([Google Drive](https://drive.google.com/file/d/10zhw_jEQ36mp49qVeEg0KV62W5e2ERN_/view?usp=sharing) | [One Drive](https://1drv.ms/u/s!AvQt5C5JE-WqkRwPszUuwfjMNIwo?e=6Tiy5v))
-- MadisNet-UNet ([Google Drive](https://drive.google.com/file/d/1W4FGwRuCbHv73yoWSLlC8JLBFf7RoeOh/view?usp=sharing) | [One Drive](https://1drv.ms/u/s!AvQt5C5JE-WqkRtSmNNbGsFWSTdu?e=HElILD))
+- MadisNet-DIRL ([Google Drive](https://drive.google.com/file/d/10zhw_jEQ36mp49qVeEg0KV62W5e2ERN_/view?usp=sharing) | [Dropbox](https://www.dropbox.com/scl/fi/y83sxxpmbqhp2esea2v6u/dirl.zip?rlkey=wvz49o2ctlwf34r4ikko3oggc&st=43z2tmbl&dl=0))
+- MadisNet-UNet ([Google Drive](https://drive.google.com/file/d/1W4FGwRuCbHv73yoWSLlC8JLBFf7RoeOh/view?usp=sharing) | [Dropbox](https://www.dropbox.com/scl/fi/7tk5di0k80qgufpyo07c9/unet.zip?rlkey=phqernvhb4o0rs7im0z49g7ya&st=77fcgwyg&dl=0))
 
 ## Experiments
 ### Quantitative Results
@@ -76,7 +76,7 @@ We also show qualitative comparision with state-of-art methods of other related 
 
 ## Test Set with Multiple Foregrounds
 
-To evaluate the effectiveness of inharmonious region localization for multiple inharmonious regions, we also prepare a test set with multiple foregrounds. Based on HCOCO test set, we composite 19,482 synthetic images with multiple foregrounds, in which the number of foregrounds ranges from 2 to 9. The test set can be downloaded from [Baidu Cloud](https://pan.baidu.com/s/1lxFte2NqQSjrkt-s6OSbpg?pwd=uvan). 
+To evaluate the effectiveness of inharmonious region localization for multiple inharmonious regions, we also prepare a test set with multiple foregrounds. Based on HCOCO test set, we composite 19,482 synthetic images with multiple foregrounds, in which the number of foregrounds ranges from 2 to 9. The test set can be downloaded from [Baidu Cloud](https://pan.baidu.com/s/1lxFte2NqQSjrkt-s6OSbpg?pwd=uvan) or [Dropbox](https://www.dropbox.com/scl/fi/xn6xjxxx80dj89zk4em1f/inharmonious_region_localization_multi_foreground.zip?rlkey=c8yu3j0zwa60re677w5d5xfyz&st=3kihwen0&dl=0). 
 
 ## Citation
 If you find this work or code is helpful in your research, please cite:
