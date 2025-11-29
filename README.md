@@ -9,6 +9,9 @@ This is the official repo for AAAI 2022 paper(**Oral**):
 
 **Our MadisNet has been integrated into our image composition toolbox libcom https://github.com/bcmi/libcom. Welcome to visit and try ＼(^▽^)／** 
 
+## Online Demo
+
+Try this [online demo](http://libcom.ustcnewly.com/) for image composition and have fun!
 
 ### Inharmonious Region
 Here are some examples of inharmonious images (top row) and their inharmonious region masks (bottom row). These inharmonious region could be infered by comparing the illuminance or color  with surrounding area.
