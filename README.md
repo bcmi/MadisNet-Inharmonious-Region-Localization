@@ -13,6 +13,8 @@ This is the official repo for AAAI 2022 paper(**Oral**):
 
 Try this [online demo](http://libcom.ustcnewly.com/) for image composition and have fun!
 
+[![]](https://github.com/user-attachments/assets/87416ec5-2461-42cb-9f2d-5030b1e1b5ec)
+
 ### Inharmonious Region
 Here are some examples of inharmonious images (top row) and their inharmonious region masks (bottom row). These inharmonious region could be infered by comparing the illuminance or color  with surrounding area.
 <div  align="center"> 
