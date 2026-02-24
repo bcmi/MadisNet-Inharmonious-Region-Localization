@@ -7,11 +7,9 @@ This is the official repo for AAAI 2022 paper(**Oral**):
 > 
 > [Paper](https://arxiv.org/pdf/2209.15368.pdf) | [Bibtex](#citation) | [Models](#pretrained)
 
-**Our MadisNet has been integrated into our image composition toolbox libcom https://github.com/bcmi/libcom. Welcome to visit and try ＼(^▽^)／** 
-
 ## Online Demo
 
-Try this [online demo](http://libcom.ustcnewly.com/) for image composition and have fun!
+Our MadisNet has been integrated into [libcom](https://github.com/bcmi/libcom) toolbox. Try this [online demo](http://libcom.ustcnewly.com/) for image composition (object insertion) built upon [libcom](https://github.com/bcmi/libcom) toolbox and have fun!
 
 [![]](https://github.com/user-attachments/assets/87416ec5-2461-42cb-9f2d-5030b1e1b5ec)
 
