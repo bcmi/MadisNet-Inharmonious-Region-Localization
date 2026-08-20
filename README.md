@@ -1,4 +1,10 @@
 # Inharmonious Region Localization by Magnifying Domain Discrepancy
+
+Welcome to scan the WeChat QR code to join the discussion group on image composition/compositing, object insertion/addition.
+<p align="center">
+<img width="150" height="150" alt="Image" src="https://github.com/user-attachments/assets/8572a7c4-0f62-4a5f-bc06-9a1d9fcb14e3" />
+</p>
+
 This is the official repo for AAAI 2022 paper(**Oral**): 
 > Inharmonious Region Localization by **Ma**gnifying **D**omain D**is**crepancy (**MadisNet**)
 > <br>Jing Liang<sup>1</sup>, Li Niu<sup>1</sup>, Penghao Wu<sup>1</sup>, Fengjun Guo<sup>2</sup>, Teng Long<sup>2</sup>
